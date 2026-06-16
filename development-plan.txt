@@ -1,1 +1,7 @@
-Please follow this link for full dump of career development plan http://bit.ly/4v9DeIj
+The career development is a simple puzzle to benchmark aptitute skills, and the development plan will be based on if the subordiante will be able to solve it.
+
+The puzzle is simple, a puzzle string will be created, such as zookd, the trick to solve this puzzle is to +1/-1 of the alpahbet, in this case, the answer is apple.
+
+If it is solvable, the subordinate is ready for an aggressive career development plan, and we can plan accordingly.
+
+In this case, the puzzle string is mhffa, what is the answer ?
